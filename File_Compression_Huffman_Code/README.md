@@ -7,11 +7,11 @@ If the number’s calculation like frequency or file size are larger than 4,294,
 So, be sure that your files is not beyond than 4,294,967,295.
 </p>
 </p>
-Compile:</p>
+<b>Compile</b></p>
 gcc henc9149.c -o henc </p>
 gcc hdec9149.c -o hdec</p>
 </p>
 </p>
-Run:</p>
+<b>Run</b></p>
 ./henc  abc.pdf</p>
 ./hdec  abc.pdf.huf</p>

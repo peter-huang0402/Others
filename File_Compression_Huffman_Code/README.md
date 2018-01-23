@@ -16,6 +16,6 @@ gcc hdec9149.c -o hdec</p>
 ./henc  abc.pdf</p>
 ./hdec  abc.pdf.huf</p>
 
-Check result with following instructions</b></p>
+<b>Check result with following instructions</b></p>
 diff      XX.pdf origan.pdf </p>
 md5sum    XX.pdf origan.pdf </p>
